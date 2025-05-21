@@ -15,6 +15,6 @@ This repository contains materials and hands-on exercises from the basic React c
 - **Server handling:** Axios, data loading, error handling, pagination  
 - **Global state:** basic `useContext`  
 - **Advanced UI:** modal windows, animations, lazy loading, custom hooks, infinite ribbon  
-- **Component decomposition & optimization:** React.lazy, `Suspense` and other performance techniques  
+- Component decomposition and other optimization techniques... 
 
 ---
